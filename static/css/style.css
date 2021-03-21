@@ -1,0 +1,27 @@
+body {
+
+  color:rgb(1, 1, 8);
+  background-color: rgb(214, 215, 219);
+}
+
+.jumbotron {
+  background-image: url("../images/bacteria.jpg");
+  background-size: 100%;
+  text-align: center;
+  color:white;
+}
+
+h4 {
+  text-align:center;
+  background-color: rgb(134, 170, 199);
+  height: 90px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 22pt;
+  color: white;
+}
+
+p {
+  text-align:center;
+  font-size: 14pt;
+
+}
