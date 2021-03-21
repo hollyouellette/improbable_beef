@@ -18,3 +18,5 @@ This repository contains the following completed deliverables:
     - The page is mobile responsive.
 
      In addition to this, when the dashboard is first opened in a browser, ID 940's data is displayed. When a sample is selected, the dashboard updates accordingly. 
+
+<img src="https://github.com/hollyouellette/improbable_beef/blob/main/static/images/dashboard.png">
